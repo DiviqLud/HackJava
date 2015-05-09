@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+/home/galin/HackJava/week0/.metadata/.plugins/org.eclipse.jdt.core
+1373146931.index
