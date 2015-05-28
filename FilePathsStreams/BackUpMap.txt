@@ -1,0 +1,1 @@
+{/home/galin/JavaWorkspace/SymbolicLinksTest/text1.compr={a=2, buffalo=0, rides=1}}
